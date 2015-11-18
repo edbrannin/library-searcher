@@ -1,0 +1,23 @@
+{
+  "name": "library-searcher",
+  "version": "1.0.0",
+  "description": "Better bulk searches in my local library catalog",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edbrannin/library-searcher.git"
+  },
+  "author": "Ed Brannin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edbrannin/library-searcher/issues"
+  },
+  "homepage": "https://github.com/edbrannin/library-searcher#readme",
+  "dependencies": {
+    "phantom": "^0.8.3",
+    "phantomjs": "^1.9.18"
+  }
+}
